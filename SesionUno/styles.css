@@ -1,0 +1,17 @@
+.styleOne {
+    background-color: cadetblue;
+}
+
+#titulo {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: #8b8b8bcc;
+}
+
+#image {
+    border-radius: 50px;
+}
+
+#botonEnviar {
+    background-color: #fff;
+}
